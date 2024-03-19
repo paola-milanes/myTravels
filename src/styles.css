@@ -272,6 +272,39 @@ section{
     font-size: 80px;
 
 }
+.thailandCointainer{
+        margin: 0 auto;
+    background-image: url(../Thailand.jpeg);
+    max-width: 1900px;
+    min-height: 300px;
+    /* min-width: fit-content; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.thailandCointainer h1{
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 80px;
+}
+.canadaCointainer{
+    margin: 0 auto;
+    background-image: url(../img/canada.jpeg);
+    max-width: 1900px;
+    min-height: 300px;
+    /* min-width: fit-content; */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.canadaCointainer h1{
+        text-align: center;
+    margin: 0 auto;
+    color: white;
+    font-size: 80px;
+}
 .embed{
     width: 100%;
     aspect-ratio: 1/1;
