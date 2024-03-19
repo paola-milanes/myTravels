@@ -210,7 +210,7 @@ section{
     text-align: center;
     /* color: rgba(0, 0, 0, 0.354); */
 }
-@media (max-width:800px){
+@media (max-width:667px){
     header{
        min-height: 200px;
     }
